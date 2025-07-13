@@ -30,14 +30,13 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 header{
-    background-image: url(/images/developer\ copy.png), url(/images/header-bg\ copy.png);
+    background-image: url("../images/developer.png" ), url("../images/header-bg.png");
     background-repeat: no-repeat;
-    background-position: top left, right bottom;
-    margin-top: 30px;
-    /* background-size: 50%; */
+    background-position: top left, bottom right;
+    /* margin-top: 30px; */
+    background-size:6.2%, 50%;
 }
 .header-content-area{
-    background-image: url(/images/rubel4.png);
     width: 1044px;
     margin: 0 auto;
 }
